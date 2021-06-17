@@ -21,4 +21,5 @@ Itt láthatóak, az adatbázisban eltárolt adatok. Ezeken a lent látható gomb
 - Model.py -> A változók itt vannak deklarálva.
 - View.py -> Ez felel a megjelenítésért.
 - Controller.py -> Ez felelel, a háttérlogikai folyamatokért.
+- Database.py -> Az adatbázis kapcsolatot hozza létre.
 - create_db.py -> Ezzel hoztam létre a programhoz az adatbázist.
